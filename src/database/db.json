@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1694022585035",
+    "paciente": "Juan Perez",
+    "fecha": "2023-09-01 10:00",
+    "pagado": false,
+    "estado": "C"
+  },
+  {
+    "id": "1694023234378",
+    "paciente": "Maria Gomez",
+    "fecha": "2023-09-02 14:00",
+    "pagado": false,
+    "estado": "C"
+  },
+  {
+    "id": "1694076982409",
+    "paciente": "ali",
+    "fecha": "2023-09-30 11:00",
+    "pagado": false,
+    "estado": "O"
+  },
+  {
+    "id": "1694009871234",
+    "paciente": "Paciente 1",
+    "fecha": "2023-09-05 10:00",
+    "pagado": false,
+    "estado": "O"
+  },
+  {
+    "id": "1694056473829",
+    "paciente": "Maria Gonzalez",
+    "fecha": "2023-09-08 10:00",
+    "pagado": false,
+    "estado": "O"
+  },
+  {
+    "id": "1694019672409",
+    "paciente": "Juana Perez",
+    "fecha": "2023-09-10 11:00",
+    "pagado": false,
+    "estado": "O"
+  },
+  {
+    "id": "1694016543894",
+    "paciente": "Pepito Lopez",
+    "fecha": "2023-09-05 09:00",
+    "pagado": false,
+    "estado": "C"
+  },
+  {
+    "id": "1694023085035",
+    "paciente": "Juanita Morales",
+    "fecha": "2023-09-05 16:00",
+    "pagado": false,
+    "estado": "C"
+  },
+  {
+    "id": "1694025380157",
+    "paciente": "Maria Perez",
+    "fecha": "2023-09-05 15:00",
+    "pagado": false,
+    "estado": "C"
+  },
+  {
+    "id": "1694026559019",
+    "paciente": "Paciente 8",
+    "fecha": "2023-09-05 19:00",
+    "pagado": false,
+    "estado": "C"
+  },
+  {
+    "id": "1694125399980",
+    "paciente": "Paciente 2",
+    "fecha": "2023-09-06 09:00",
+    "pagado": false,
+    "estado": "O"
+  },
+  {
+    "id": "1694125534490",
+    "paciente": "Paciente 3",
+    "fecha": "2023-09-06 10:00",
+    "pagado": false,
+    "estado": "O"
+  },
+  {
+    "id": "1694129935613",
+    "paciente": "Paciente 4",
+    "fecha": "2023-09-05 19:00",
+    "pagado": false,
+    "estado": "O"
+  },
+  {
+    "id": "1694130047516",
+    "paciente": "Paciente 6",
+    "fecha": "2023-09-05 15:00",
+    "pagado": false,
+    "estado": "O"
+  }
+]
